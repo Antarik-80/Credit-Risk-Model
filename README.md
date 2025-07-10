@@ -44,7 +44,7 @@ Credit_Risk_Model/
 
 Here’s a glimpse of the interactive web application interface:
 
-![Credit Risk Model UI](![image](https://github.com/user-attachments/assets/e3d3e061-5998-4823-a5b9-ca89b9b99504)
+![Credit Risk Model UI](<img width="1805" height="767" alt="Image" src="https://github.com/user-attachments/assets/4725aa07-c597-47ff-ac6d-601acb0ad19c" />
 ) 
 
 > The app runs in a dark theme, with a modern layout and emoji-enhanced labels. Users can input income, loan details, DPD, utilization ratio, and more, and get a default risk score instantly.
